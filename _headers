@@ -1,0 +1,73 @@
+# Security + cache headers for Netlify / Cloudflare Pages (made by 00_tools/build_dist.py — re-run the build, do not hand-edit).
+# Cal.com later: add https://app.cal.com to script-src/frame-src/connect-src, or the booking pop-up will be blocked.
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-1p5gtt44jlMPyfdZWozEgf8yeo7MCmUmNszlLfGH6z8=' 'sha256-3DtYpUC17wopBtblfmNP5+ZYZIzKdg4khNqWq9tWcjE=' 'sha256-4VbN9h/mtiNHlMUWqcjLJQgOHI5vQmtorXLpVpgnGXk=' 'sha256-7qeaaaD7S4N/AeGv6av9yA0nYxhBtVEs/n3PxPCaDW8=' 'sha256-8d/CDWKXnXXSL2dJ7zUmf+3WgkY/ijU4ghBPsARpgi0=' 'sha256-AnnFTwBH2aBXwcZS2f3GbVZPCqxGD4/qNjxTgRUapEY=' 'sha256-IlRkIbKW/8ZHZW776WnLptBEM/SBkhOzOEbvgGuvxrs=' 'sha256-Kxgx1Hbb56oci+abIDBFQlxkxt7OHZ8gcxpwKggzIYE=' 'sha256-NrAXM6uecoehqVk/JJZZeeP6LoGFxAih1ilaBqb40m0=' 'sha256-S4AFUj3xMM1DD5RwyEP/4f6vpri1xb0/vno2C/bk2+w=' 'sha256-X2UgBzcPdk9Mqgk4JWFrdNjI4OSg7mNpNnBR7T4B2Tk=' 'sha256-hE2doRA6ucL1VOa3PVgXlLTyNRHzxTV1/knQnxtsx5U=' 'sha256-txn4ozJANoEne0TJoBxgXZriTb14shqUTBtreh2uoZo=' 'sha256-xo4m36+CGicooNIF6J8ZZBWllwt85UEM3IzcoE8t+so='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()
+  Cross-Origin-Opener-Policy: same-origin
+
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/books/*
+  Cache-Control: public, max-age=2592000
+
+/fw/cards/*
+  Cache-Control: public, max-age=2592000
+
+/fw/clips/*
+  Cache-Control: public, max-age=2592000
+
+/fw/tex/*
+  Cache-Control: public, max-age=2592000
+
+/fw/trailer/*
+  Cache-Control: public, max-age=2592000
+
+/how/*
+  Cache-Control: public, max-age=2592000
+
+/how3/*
+  Cache-Control: public, max-age=2592000
+
+/how9/*
+  Cache-Control: public, max-age=2592000
+
+/intro/*
+  Cache-Control: public, max-age=2592000
+
+/pages/*
+  Cache-Control: public, max-age=2592000
+
+/sfx/*
+  Cache-Control: public, max-age=2592000
+
+/tex/*
+  Cache-Control: public, max-age=2592000
+
+/tv/*
+  Cache-Control: public, max-age=2592000
+
+/fonts/*
+  Cache-Control: public, max-age=2592000
+
+/vendor/*
+  Cache-Control: public, max-age=2592000
+
+/pro/*
+  Cache-Control: public, max-age=2592000
+
+/sv/*
+  Cache-Control: public, max-age=2592000
+
+/trust/*
+  Cache-Control: public, max-age=2592000
+
+/globe/*
+  Cache-Control: public, max-age=2592000
+
+/fw/samples/*
+  Cache-Control: public, max-age=2592000

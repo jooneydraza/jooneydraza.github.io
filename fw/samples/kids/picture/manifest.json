@@ -1,0 +1,116 @@
+{
+ "niche": "picture",
+ "name": "Picture books",
+ "title": "Bo and the Runaway Kite",
+ "author": "Hana Lowe",
+ "trim": "8.5 x 8.5 in",
+ "paper": "cream",
+ "paperCol": "#fbf3e4",
+ "fonts": [
+  "Fraunces (soft)"
+ ],
+ "medium": "Flat vector art, riso grain",
+ "style": "A 32-page-style picture book: full-bleed spreads across the gutter, a page-turn word, round vignettes, an ending spread",
+ "fan": [
+  "p02.webp",
+  "p05.webp",
+  "p10.webp"
+ ],
+ "w": 1500,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Picture facing type"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "The page-turn word"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Vignettes"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Vignettes"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p12.webp",
+   "side": "verso",
+   "label": "Ending spread"
+  },
+  {
+   "file": "p13.webp",
+   "side": "recto",
+   "label": "Ending spread"
+  },
+  {
+   "file": "p14.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p15.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(picture%20book).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.51,
+     "y": 54.95,
+     "w": 72.98,
+     "h": 12.06
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(picture%20book)",
+     "label": "Send an email",
+     "x": 14.51,
+     "y": 66.03,
+     "w": 72.98,
+     "h": 12.06
+    }
+   ]
+  }
+ ]
+}

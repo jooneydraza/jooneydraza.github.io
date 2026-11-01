@@ -1,0 +1,97 @@
+{
+ "niche": "poetry",
+ "name": "Poetry",
+ "title": "Small Hours",
+ "author": "Mara Ellison",
+ "trim": "5.5 x 8.5 in",
+ "paper": "cream",
+ "paperCol": "#f7f1e3",
+ "fonts": [
+  "Newsreader",
+  "Manrope"
+ ],
+ "medium": "Fine ink line drawings",
+ "style": "A poetry collection: one drawing for each poem — a ladder to the moon, an open birdcage, a letter, a kite, a flowering pocket watch, an empty chair, a pier in the rain, a paper boat",
+ "fan": [
+  "p03.webp",
+  "p01.webp",
+  "p05.webp"
+ ],
+ "w": 1165,
+ "h": 1800,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page — a ladder to the moon"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Contents"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Poem with drawing — the open birdcage"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Poem — facing its full-page drawing"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Full-page drawing — a woman reading a letter"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Wide drawing — a kite on the hill"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Poem with spot drawing — a flowering pocket watch"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Poem with drawing — an empty chair by the window"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Full-page drawing — a man under an umbrella on the pier"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "Poem with spot drawing — a paper boat in the rain"
+  },
+  {
+   "file": "p12.webp",
+   "side": "recto",
+   "label": "Your book, drawn for you",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%2C%20I'd%20like%20to%20book%20a%20free%20call%20about%20illustrations%20for%20my%20book.",
+     "label": "Free consultation call",
+     "x": 11.97,
+     "y": 56.47,
+     "w": 76.06,
+     "h": 11.45
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Illustrations%20for%20my%20book",
+     "label": "Email",
+     "x": 11.97,
+     "y": 66.94,
+     "w": 76.06,
+     "h": 11.45
+    }
+   ]
+  }
+ ]
+}

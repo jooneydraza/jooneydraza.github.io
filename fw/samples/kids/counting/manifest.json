@@ -1,0 +1,117 @@
+{
+ "niche": "counting",
+ "name": "Counting & maths",
+ "title": "Ten in the Garden",
+ "author": "Leo Marsh",
+ "trim": "8.5 x 8.5 in",
+ "paper": "white",
+ "paperCol": "#fffaf1",
+ "fonts": [
+  "Baloo 2",
+  "Nunito"
+ ],
+ "medium": "Flat vector art, riso grain \u00b7 counts checked",
+ "style": "One number a page with a ten-frame, first adding, a number line",
+ "fan": [
+  "p04.webp",
+  "p07.webp",
+  "p12.webp"
+ ],
+ "w": 1500,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "The number 1"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "The number 2"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "The number 3"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "The number 4"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "The number 5"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "The number 6"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "The number 7"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "The number 8"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "The number 9"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "The number 10"
+  },
+  {
+   "file": "p12.webp",
+   "side": "verso",
+   "label": "Adding"
+  },
+  {
+   "file": "p13.webp",
+   "side": "recto",
+   "label": "Number line"
+  },
+  {
+   "file": "p14.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p15.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(counting%20book).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.51,
+     "y": 54.95,
+     "w": 72.98,
+     "h": 12.06
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(counting%20book)",
+     "label": "Send an email",
+     "x": 14.51,
+     "y": 66.03,
+     "w": 72.98,
+     "h": 12.06
+    }
+   ]
+  }
+ ]
+}

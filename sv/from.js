@@ -1,0 +1,1 @@
+export const FROM={format:249,covers:599,illus:99,kids:1499,trailer:399,social:349,web:899},SLUG={format:"book-formatting",covers:"book-cover-design",illus:"book-illustration",kids:"childrens-picture-books",trailer:"book-trailers",social:"author-social-media",web:"author-websites"};

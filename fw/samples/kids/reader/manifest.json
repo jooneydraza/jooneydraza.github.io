@@ -1,0 +1,107 @@
+{
+ "niche": "reader",
+ "name": "Early readers",
+ "title": "Pig Can Dig!",
+ "author": "Sam Patel",
+ "trim": "6 x 9 in",
+ "paper": "white",
+ "paperCol": "#ffffff",
+ "fonts": [
+  "Andika",
+  "Baloo 2"
+ ],
+ "medium": "Ink outline + flat colour",
+ "style": "A Level 1 reader: level badge, words to know, one short sentence a page, questions after the story",
+ "fan": [
+  "p01.webp",
+  "p02.webp",
+  "p05.webp"
+ ],
+ "w": 1000,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Words to know"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Story page"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Story page"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Story page"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Story page"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Story page"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Story page"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Story page"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "Story page"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "After the story"
+  },
+  {
+   "file": "p12.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p13.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(early%20reader).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.3,
+     "y": 54.97,
+     "w": 73.39,
+     "h": 12
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(early%20reader)",
+     "label": "Send an email",
+     "x": 14.3,
+     "y": 66.04,
+     "w": 73.39,
+     "h": 12
+    }
+   ]
+  }
+ ]
+}

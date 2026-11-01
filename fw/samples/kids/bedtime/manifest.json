@@ -1,0 +1,107 @@
+{
+ "niche": "bedtime",
+ "name": "Bedtime stories",
+ "title": "Hush Now, Little Owl",
+ "author": "Clara Wren",
+ "trim": "8 x 10 in",
+ "paper": "white",
+ "paperCol": "#fbeedd",
+ "fonts": [
+  "Young Serif",
+  "Literata"
+ ],
+ "medium": "Night inks, soft flat shapes",
+ "style": "A calm rhyming read-aloud: dusk spread, a cut-away burrow, counting stars, everyone asleep",
+ "fan": [
+  "p01.webp",
+  "p06.webp",
+  "p11.webp"
+ ],
+ "w": 1200,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Verse page"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Full-page picture"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Cut-away spread"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Cut-away spread"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Full-bleed spread"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "Counting down"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "Everyone asleep"
+  },
+  {
+   "file": "p12.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p13.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(bedtime%20story).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.48,
+     "y": 55.04,
+     "w": 73.04,
+     "h": 11.89
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(bedtime%20story)",
+     "label": "Send an email",
+     "x": 14.48,
+     "y": 66.09,
+     "w": 73.04,
+     "h": 11.89
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+const els=[...document.querySelectorAll("[data-attn]")];if(els.length&&"IntersectionObserver"in window){const e=new IntersectionObserver(t=>t.forEach(s=>{s.isIntersecting&&(s.target.classList.add("lit"),e.unobserve(s.target))}),{threshold:.55});els.forEach(t=>e.observe(t))}else els.forEach(e=>e.classList.add("lit"));

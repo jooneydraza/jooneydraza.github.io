@@ -1,0 +1,1 @@
+var r=Object.defineProperty;var e=(o,t)=>r(o,"name",{value:t,configurable:!0});import{mountThreads as c}from"./threads.js?v=3";const m=e((o,t)=>{const s=document.querySelector(o);s&&(s.classList.add("has-thr"),c(s,t))},"go");

@@ -1,0 +1,106 @@
+{
+ "niche": "board",
+ "name": "Board books",
+ "title": "Hello, Garden!",
+ "author": "Ama Okoro",
+ "trim": "6 x 6 in",
+ "paper": "board",
+ "paperCol": "#fff4e2",
+ "fonts": [
+  "Baloo 2"
+ ],
+ "medium": "Bold flat shapes for ages 0\u20133",
+ "style": "One word on a bold colour, one big friendly picture, a join-in prompt",
+ "fan": [
+  "p01.webp",
+  "p05.webp",
+  "p08.webp"
+ ],
+ "w": 1500,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Word + picture"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "Goodnight"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "Goodnight"
+  },
+  {
+   "file": "p12.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p13.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(board%20book).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.3,
+     "y": 54.69,
+     "w": 73.39,
+     "h": 12.52
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(board%20book)",
+     "label": "Send an email",
+     "x": 14.3,
+     "y": 65.82,
+     "w": 73.39,
+     "h": 12.52
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "niche": "colouring",
+ "name": "Colouring pages",
+ "title": "Bloom & Breathe",
+ "author": "Mira Lansing",
+ "trim": "8.5 x 11 in",
+ "paper": "white",
+ "paperCol": "#ffffff",
+ "fonts": [
+  "Fraunces",
+  "Outfit"
+ ],
+ "medium": "Black line art for colouring",
+ "style": "An adult colouring book: two mandalas, a butterfly, a floral wreath with lettering, a tide pool, a village street; single-sided",
+ "fan": [
+  "p03.webp",
+  "p05.webp",
+  "p08.webp"
+ ],
+ "w": 1391,
+ "h": 1800,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Colour test page"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Colouring page — mandala, 16-fold"
+  },
+  {
+   "file": "p04.webp",
+   "side": "recto",
+   "label": "Colouring page — lotus mandala"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Colouring page — butterfly"
+  },
+  {
+   "file": "p06.webp",
+   "side": "recto",
+   "label": "Colouring page — floral wreath + lettering"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Colouring page — seashells"
+  },
+  {
+   "file": "p08.webp",
+   "side": "recto",
+   "label": "Colouring page — village street"
+  },
+  {
+   "file": "p10.webp",
+   "side": "recto",
+   "label": "Your book, drawn for you",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%2C%20I'd%20like%20to%20book%20a%20free%20call%20about%20illustrations%20for%20my%20book.",
+     "label": "Free consultation call",
+     "x": 11.01,
+     "y": 56.55,
+     "w": 77.98,
+     "h": 11.3
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Illustrations%20for%20my%20book",
+     "label": "Email",
+     "x": 11.01,
+     "y": 67.1,
+     "w": 77.98,
+     "h": 11.3
+    }
+   ]
+  }
+ ]
+}

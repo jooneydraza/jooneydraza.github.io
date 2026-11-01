@@ -1,0 +1,97 @@
+{
+ "niche": "puzzles",
+ "name": "Puzzles & activities",
+ "title": "Puzzle Garden",
+ "author": "Nora Finch",
+ "trim": "8.5 x 11 in",
+ "paper": "white",
+ "paperCol": "#ffffff",
+ "fonts": [
+  "Baloo 2",
+  "Lexend"
+ ],
+ "medium": "Every puzzle generated and checked \u00b7 answer key",
+ "style": "Maze, word search, dot-to-dot, shadow match, spot the difference, answers",
+ "fan": [
+  "p02.webp",
+  "p03.webp",
+  "p07.webp"
+ ],
+ "w": 1159,
+ "h": 1500,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Maze"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Word search"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Dot-to-dot"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Shadow match"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Spot the difference"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Spot the difference"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Answers"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Answers"
+  },
+  {
+   "file": "p10.webp",
+   "side": "verso",
+   "label": "The End"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "Your turn",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%20Jooneyd%2C%0A%0AI'd%20like%20to%20book%20a%20free%20consultation%20call%20about%20my%20children's%20book%20(activity%20book).%0A%0AMy%20time%20zone%3A%20%0A",
+     "label": "Free consultation call",
+     "x": 14.51,
+     "y": 55.09,
+     "w": 72.98,
+     "h": 11.79
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=My%20children's%20book%20(activity%20book)",
+     "label": "Send an email",
+     "x": 14.51,
+     "y": 66.11,
+     "w": 72.98,
+     "h": 11.79
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "niche": "line",
+ "name": "Line art",
+ "title": "Rooms of Light",
+ "author": "Clara Wynn",
+ "trim": "5.5 x 8.5 in",
+ "paper": "cream",
+ "paperCol": "#f7f1e3",
+ "fonts": [
+  "Newsreader",
+  "Manrope"
+ ],
+ "medium": "Clean monoline drawings",
+ "style": "An essay book about home: a window and plant, contents icons, a tea still life, glasses on a book, a fern and eucalyptus plate, a lake, a front door, a bicycle",
+ "fan": [
+  "p05.webp",
+  "p01.webp",
+  "p08.webp"
+ ],
+ "w": 1165,
+ "h": 1800,
+ "pages": [
+  {
+   "file": "p01.webp",
+   "side": "recto",
+   "label": "Title page — a woman reading"
+  },
+  {
+   "file": "p02.webp",
+   "side": "verso",
+   "label": "Contents — small line icons"
+  },
+  {
+   "file": "p03.webp",
+   "side": "recto",
+   "label": "Chapter head — tea still life"
+  },
+  {
+   "file": "p04.webp",
+   "side": "verso",
+   "label": "Text page — spot drawing, quill and ink"
+  },
+  {
+   "file": "p05.webp",
+   "side": "recto",
+   "label": "Full-page botanical — fern and eucalyptus"
+  },
+  {
+   "file": "p06.webp",
+   "side": "verso",
+   "label": "Part opener — a heron in the reeds"
+  },
+  {
+   "file": "p07.webp",
+   "side": "recto",
+   "label": "Text page — essay opening"
+  },
+  {
+   "file": "p08.webp",
+   "side": "verso",
+   "label": "Full-page drawing — the blue door"
+  },
+  {
+   "file": "p09.webp",
+   "side": "recto",
+   "label": "Text page — closing spot drawing"
+  },
+  {
+   "file": "p11.webp",
+   "side": "recto",
+   "label": "Your book, drawn for you",
+   "links": [
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Free%20consultation%20call%20about%20my%20book&body=Hi%2C%20I'd%20like%20to%20book%20a%20free%20call%20about%20illustrations%20for%20my%20book.",
+     "label": "Free consultation call",
+     "x": 11.97,
+     "y": 56.47,
+     "w": 76.06,
+     "h": 11.45
+    },
+    {
+     "href": "mailto:jooneydraza@gmail.com?subject=Illustrations%20for%20my%20book",
+     "label": "Email",
+     "x": 11.97,
+     "y": 66.94,
+     "w": 76.06,
+     "h": 11.45
+    }
+   ]
+  }
+ ]
+}
